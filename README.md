@@ -37,6 +37,6 @@ Polars was developed by Ritchie Vink, a software engineer who identified the nee
 - **Complex Data Manipulations**: When your workflow involves complex transformations that can benefit from lazy evaluation and query optimization.
 - **Python Environments**: When you want a high-performance alternative to Pandas without the complexity of setting up and managing a Spark cluster.
 
-### Conclusion
+### References
 
-Polars offers a compelling alternative to Pandas and Spark, providing high performance, memory efficiency, and ease of use for data manipulation and analysis. Its combination of Rust's performance with Python's ease of use makes it an excellent choice for data scientists and engineers looking to handle large datasets efficiently.
+For more information, check out the [official Polars documentation](https://www.pola.rs).
