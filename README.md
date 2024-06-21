@@ -1,4 +1,4 @@
-# Polars: The Fast and Furious DataFrame Library A Tale of Speed and Efficiency
+#  A Tale of Speed and Efficiency: The Fast and Furious DataFrame Library Polars
 
 <img src="https://github.com/mrme77/Polars-The-Fast-and-Furious-DataFrame-Library---A-Tale-of-Speed-and-Efficiency-/blob/main/bear.jpg" alt="Polars Logo" width="800"/>
 
