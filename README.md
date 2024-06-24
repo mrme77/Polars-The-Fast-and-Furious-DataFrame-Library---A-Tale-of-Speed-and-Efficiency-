@@ -2,6 +2,15 @@
 
 <img src="https://github.com/mrme77/Polars-The-Fast-and-Furious-DataFrame-Library---A-Tale-of-Speed-and-Efficiency-/blob/main/bear.jpg" alt="Polars Logo" width="800"/>
 
+### Project Overview
+
+This project serves as an initial exploration of the Polars library. The main objectives are:
+- To understand the basic functionalities and features of Polars.
+- To perform a quick comparison between Polars and Pandas in terms of data loading and manipulation.
+
+Note: This project does not include comparisons with Spark.
+
+Through this project, we aim to demonstrate the potential benefits of using Polars, especially in scenarios where performance and memory efficiency are critical.
 ### Overview of Polars
 
 **Polars** is a high-performance DataFrame library for data manipulation and analysis, implemented in Rust and designed for use in Python and other languages. It offers a fast and efficient alternative to traditional data processing libraries such as Pandas and Apache Spark.
