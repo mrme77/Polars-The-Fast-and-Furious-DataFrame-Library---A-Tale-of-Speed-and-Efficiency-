@@ -9,7 +9,15 @@ This project serves as an initial exploration of the Polars library and to demon
 - To perform a quick comparison between Polars and Pandas in terms of data loading and manipulation.
 
 Note: This project does not include comparisons with Spark.
-
+### Libraries used
+```
+import pandas as pd
+import polars as pl
+import time 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+```
 ### Overview of Polars
 
 **Polars** is a high-performance DataFrame library for data manipulation and analysis, implemented in Rust and designed for use in Python and other languages. It offers a fast and efficient alternative to traditional data processing libraries such as Pandas and Apache Spark.
